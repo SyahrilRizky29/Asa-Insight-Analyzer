@@ -39,7 +39,7 @@
 ## 📸 Dokumentasi
 *Sertakan screenshot workflow n8n kamu di sini untuk menunjukkan bahwa semua node telah berhasil (centang hijau).*
 
-![Workflow Screenshot](<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/9299af6e-0dee-409d-ab20-634c56a788b1" />)
+<img width="1920" height="1080" alt="Workflow Asa Intelligence" src="https://github.com/user-attachments/assets/9299af6e-0dee-409d-ab20-634c56a788b1" />
 
 ---
 
